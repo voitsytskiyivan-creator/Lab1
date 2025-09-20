@@ -1,0 +1,5 @@
+a = input("Введіть значення a: ")
+n1 = int(str(a) * 2)
+n2 = int(str(a) * 3)
+n3 = int(str(a) * 4)
+print(f"a + aa + aaa + aaaa = {int(a) + n1 + n2 + n3}")
